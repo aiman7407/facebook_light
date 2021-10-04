@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181025911064",
+    "project_id": "facebook-light-bf878",
+    "storage_bucket": "facebook-light-bf878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181025911064:android:00c21eadf2a26667632e6d",
+        "android_client_info": {
+          "package_name": "com.jrgz99.facebook_light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181025911064-5sqffd8abcf253vq5up6t7471j3hq40a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jrgz99.facebook_light",
+            "certificate_hash": "f2caca086116a7c643cc4f647bc7ebad4509125d"
+          }
+        },
+        {
+          "client_id": "181025911064-u3i15r2ikg2jl4h08n93do1d4kt2itbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPfifLQgbKdVq7Vw671zDsQDvYc_ZRCc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181025911064-u3i15r2ikg2jl4h08n93do1d4kt2itbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
